@@ -1,0 +1,31 @@
+baseURL: http://gpncarl.github.io/
+languageCode: zh-cn
+hasCJKLanguage: true
+title: Carl's Blog
+theme: yinyang
+DefaultContentLanguage: cn
+markup:
+  highlight:
+    style: github
+author:
+  name: Carl
+  homepage: https://gpncarl.github.io
+params:
+  headTitle: Carl
+  mainSections:
+    - posts
+  postHeaderContent: ''
+  postFooterContent: >
+    <script src="https://utteranc.es/client.js"
+        repo="gpncarl/gpncarl.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+    </script>
+  extraCSSFiles: []
+  socials:
+    - name: About Me
+      link: https://gpncarl.github.io
+    - name: Github
+      link: https://github.com/gpncarl
