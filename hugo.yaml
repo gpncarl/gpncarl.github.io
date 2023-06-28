@@ -25,7 +25,9 @@ params:
     </script>
   extraCSSFiles: []
   socials:
-    - name: About Me
-      link: https://gpncarl.github.io
     - name: Github
       link: https://github.com/gpncarl
+    - name: Mail
+      link: mailto:gpncarl@gmail.com
+    - name: About Me
+      link: https://gpncarl.github.io
